@@ -4,9 +4,9 @@ Maria Vystoropska
 
 A repository for assignment #5 for BT4BR
 
-###What knowledge on Git I consider important:
+##What knowledge on Git I consider important:
 
-##_Branching, forking and committing_
+###_Branching, forking and committing_
 
 ```
    git branch new_branch
