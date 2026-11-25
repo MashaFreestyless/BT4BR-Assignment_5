@@ -6,7 +6,7 @@ A repository for assignment #5 for BT4BR
 
 ##What knowledge on Git I consider important:
 
-###_Branching, forking and committing_
+###Branching, forking and committing
 
 ```
    git branch new_branch
